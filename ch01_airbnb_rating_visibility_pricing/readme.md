@@ -2,7 +2,7 @@ This directory contains the code necessary to produce the results that appear in
 
 Instructions: Source the three function files and the 01_setupenv.R script. Then, run the code in the order of the prefixed numbers for each script in each subdirectory. 
 
-Note: Running end-to-end is only possible if working with the raw database files, which are in the author's possession. The database file provided here, iaan.db, only contains result sets that power figures and tables. To inquire about obtaining the raw database files, please reach out to the author.
+Note: Running end-to-end is only possible if working with the raw database files, which are in the author's possession. The database file provided here, iaan.db, only contains result sets that power figures and tables (generated from the plot and table functions). To inquire about obtaining the raw database files, please reach out to the author.
 
 **Bibliography**
 
