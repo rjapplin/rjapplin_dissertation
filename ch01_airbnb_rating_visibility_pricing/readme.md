@@ -1,4 +1,4 @@
-This directory contains the code necessary to produce the results that appear in Chapter 1 of *Applin (2025).* In addition, it includes a database file containing processed results—but no raw data.
+This directory contains the code necessary to produce the results that appear in *Applin (2025).* In addition, it includes a database file containing processed results—but no raw data.
 
 Instructions: Source the three function files and the 01_setupenv.R script. Then, run the code in the order of the prefixed numbers for each script in each subdirectory. 
 
