@@ -16,13 +16,13 @@ library(CausalImpact)
 library(plm)
 
 #Functions----------------------------------------------------------------------
-source(".functions_utility.R")
-source(".functions_plots.R")
-source(".functions_tables.R")
+source("functions_utility.R")
+source("functions_plots.R")
+source("functions_tables.R")
 
 #Connect to the IADB------------------------------------------------------------
 if(file.exists(read_file(".iadb_path"))){
-  iadb  <-dbConnect(SQLite(), dbname = read_file(".iadb_path"))
+  iadb  <-dbConnect(SQLite(), dbname = read_file("iadb_path"))
 }
 
 iaan <- dbConnect(SQLite(), dbname = "iaan.db")
