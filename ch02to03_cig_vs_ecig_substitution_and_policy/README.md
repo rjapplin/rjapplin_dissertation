@@ -6,6 +6,8 @@ Files that have MASKED at the end of their name have had certain code removed/ma
 
 Disclaimer: Researcher(s) own analyses calculated (or derived) based in part on data from Nielsen Consumer LLC and marketing databases provided through the NielsenIQ Datasets at the Kilts Center for Marketing Data Center at The University of Chicago Booth School of Business. The conclusions drawn from the NielsenIQ data are those of the researcher(s) and do not reflect the views of NielsenIQ. NielsenIQ is not responsible for, had no role in, and was not involved in analyzing and preparing the results reported herein.
 
+These chapters are available in the dissertation linked in the bibliography below as well as on SSRN: [Substitutability Between Cigarette and E-Cigarette Brands and Estimating the Potential Impact of E-Cigarette Regulation](https://ssrn.com/abstract=5756842) 
+
 **Bibliography**
 
 [Applin, R. Jacob (2025). "Substitutability Between Cigarette and E-Cigarette Brands: Evidence from Subbagged Mixed Logit Model," and "Estimating the Potential Impact of E-Cigarette Regulation and Policy" in *Applied Essays in Industrial Organization: Pricing in Short-Term Rental Markets and Policy Implications in Tobacco Consumption*. Theses and Dissertations--Economics. 71.
