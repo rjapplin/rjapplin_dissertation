@@ -14,6 +14,8 @@ LinkedIn: [Jacob Applin, Ph.D.](www.linkedin.com/in/jacob-applin-econ)
 
 ORCID: [0009-0005-0199-9332](https://orcid.org/0009-0005-0199-9332)
 
+SSRN: [Jacob Applin](https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=5825449)
+
 Website: [rjapplin.github.io](https://rjapplin.github.io)
 
 ## Bibliography
