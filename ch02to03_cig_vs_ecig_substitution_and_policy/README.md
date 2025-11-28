@@ -27,4 +27,4 @@ Website: [rjapplin.github.io](https://rjapplin.github.io)
 ## Bibliography
 
 [Applin, R. Jacob (2025). "Substitutability Between Cigarette and E-Cigarette Brands: Evidence from Subbagged Mixed Logit Model," and "Estimating the Potential Impact of E-Cigarette Regulation and Policy" in *Applied Essays in Industrial Organization: Pricing in Short-Term Rental Markets and Policy Implications in Tobacco Consumption*. Theses and Dissertations--Economics. 71.
-https://uknowledge.uky.edu/economics_etds/71.](https://uknowledge.uky.edu/economics_etds/71.)
+https://uknowledge.uky.edu/economics_etds/71.](https://uknowledge.uky.edu/economics_etds/71)
