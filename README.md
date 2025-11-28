@@ -4,6 +4,7 @@ This contains all the code necessary to produce the results in *Applin (2025).* 
 Disclaimer: Researcher(s) own analyses calculated (or derived) based in part on data from Nielsen Consumer LLC and marketing databases provided through the NielsenIQ Datasets at the Kilts Center for Marketing Data Center at The University of Chicago Booth School of Business. The conclusions drawn from the NielsenIQ data are those of the researcher(s) and do not reflect the views of NielsenIQ. NielsenIQ is not responsible for, had no role in, and was not involved in analyzing and preparing the results reported herein.
 
 ORCID: [0009-0005-0199-9332](https://orcid.org/0009-0005-0199-9332)
+
 LinkedIn: [Jacob Applin, Ph.D.](www.linkedin.com/in/jacob-applin-econ)
 
 **Bibliography**
