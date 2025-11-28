@@ -1,3 +1,5 @@
+# README
+
 This directory contains the code necessary to produce the results that appear in *Applin (2025).* In addition, it includes a database file containing processed results—but no raw data.
 
 Instructions: Source the three function files and the 01_setupenv.R script. Then, run the code in the order of the prefixed numbers for each script in each subdirectory. 
@@ -14,6 +16,8 @@ Script Categories:
 - 22-24_rc contain some robustness checks
 
 In addition, the folder iadb_engineer contains the codebase that was used to develop a database out of raw data provided by Inside Airbnb. This database was used to develop the analysis sample used for this chapter.
+
+ORCID: [0009-0005-0199-9332](https://orcid.org/0009-0005-0199-9332)
 
 **Bibliography**
 
