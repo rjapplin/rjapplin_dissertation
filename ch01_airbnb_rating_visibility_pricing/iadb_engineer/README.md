@@ -1,0 +1,5 @@
+The University of Kentucky Department of Economics purchased archived data from Inside Airbnb. The data came in a set of over 8000 raw CSV files for each location-time period. To manage this data, I engineered a SQL database out of these CSV files. This directory contains the codebase I developed to do this engineering as well as a file that downloads new data from the Inside Airbnb website and updates the database with new data.
+
+Please note this directory does not contain any raw data. To run this code end to end, the code would expect a subdirectory, raw with subdirectories for each location. For example, raw/Asheville. Each of which would contain a CSV with data for that location for each time period. 
+
+Please note that since graduating, I no longer maintain or update this database.
