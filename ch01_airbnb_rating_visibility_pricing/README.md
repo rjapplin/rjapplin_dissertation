@@ -13,6 +13,8 @@ Script Categories:
 - 21_ml contains machine learning; namely, Bayesian Structural Time Series
 - 22-24_rc contain some robustness checks
 
+Chapter 1 is available at the link below as well as on SSRN: [Rating Visibility and Pricing in Airbnb Markets](https://ssrn.com/abstract=4409993)
+
 **Bibliography**
 
 [Applin, R. Jacob (2025). "Rating Visibility and Pricing in Airbnb Markets," in *Applied Essays in Industrial Organization: Pricing in Short-Term Rental Markets and Policy Implications in Tobacco Consumption. Theses and Dissertations--Economics. 71.
