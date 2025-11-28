@@ -1,5 +1,7 @@
 # README
 
+## Overview of Chapter 1 Codebase
+
 This directory contains the code necessary to produce the results that appear in *Applin (2025).* In addition, it includes a database file containing processed results—but no raw data.
 
 Instructions: Source the three function files and the 01_setupenv.R script. Then, run the code in the order of the prefixed numbers for each script in each subdirectory. 
@@ -17,9 +19,13 @@ Script Categories:
 
 In addition, the folder iadb_engineer contains the codebase that was used to develop a database out of raw data provided by Inside Airbnb. This database was used to develop the analysis sample used for this chapter.
 
+## Author Information
+
 ORCID: [0009-0005-0199-9332](https://orcid.org/0009-0005-0199-9332)
 
-**Bibliography**
+LinkedIn: [Jacob Applin, Ph.D.](www.linkedin.com/in/jacob-applin-econ)
+
+## Bibliography
 
 [Applin, R. Jacob (2025). "Rating Visibility and Pricing in Airbnb Markets," in *Applied Essays in Industrial Organization: Pricing in Short-Term Rental Markets and Policy Implications in Tobacco Consumption. Theses and Dissertations--Economics. 71.
 https://uknowledge.uky.edu/economics_etds/71.](https://uknowledge.uky.edu/economics_etds/71.)
