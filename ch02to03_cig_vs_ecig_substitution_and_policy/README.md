@@ -1,5 +1,7 @@
 # README
 
+## Overview of Chapters 2 and 3 Codebase
+
 This directory contains the code necessary to produce the results that appear in Chapters 2 and 3 of *Applin (2025).* 
 
 Instructions: If you have access to the NielsenIQ Datasets at the Kilts Centerfor Marketing Data Center at The University of Chicago Booth School of Business, then this codebase can be used to repliate the results of *Applin (2025)*. If you do not have access, then unfortunately data usage agreements prohibit sharing underlying raw data.
@@ -10,9 +12,17 @@ Disclaimer: Researcher(s) own analyses calculated (or derived) based in part on 
 
 These chapters are available in the dissertation linked in the bibliography below as well as on SSRN: [Substitutability Between Cigarette and E-Cigarette Brands and Estimating the Potential Impact of E-Cigarette Regulation](https://ssrn.com/abstract=5756842) 
 
+## Author Information
+
+GitHub: [rjapplin](https://github.com/rjapplin)
+
+LinkedIn: [Jacob Applin, Ph.D.](www.linkedin.com/in/jacob-applin-econ)
+
 ORCID: [0009-0005-0199-9332](https://orcid.org/0009-0005-0199-9332)
 
-**Bibliography**
+Website: [rjapplin.github.io](https://rjapplin.github.io)
+
+## Bibliography
 
 [Applin, R. Jacob (2025). "Substitutability Between Cigarette and E-Cigarette Brands: Evidence from Subbagged Mixed Logit Model," and "Estimating the Potential Impact of E-Cigarette Regulation and Policy" in *Applied Essays in Industrial Organization: Pricing in Short-Term Rental Markets and Policy Implications in Tobacco Consumption*. Theses and Dissertations--Economics. 71.
 https://uknowledge.uky.edu/economics_etds/71.](https://uknowledge.uky.edu/economics_etds/71.)
