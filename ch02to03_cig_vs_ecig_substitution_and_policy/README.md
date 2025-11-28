@@ -16,7 +16,7 @@ These chapters are available in the dissertation linked in the bibliography belo
 
 GitHub: [rjapplin](https://github.com/rjapplin)
 
-LinkedIn: [Jacob Applin, Ph.D.](www.linkedin.com/in/jacob-applin-econ)
+LinkedIn: [Jacob Applin, Ph.D.](https://www.linkedin.com/in/jacob-applin-econ)
 
 ORCID: [0009-0005-0199-9332](https://orcid.org/0009-0005-0199-9332)
 
