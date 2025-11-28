@@ -20,4 +20,4 @@ Website: [rjapplin.github.io](https://rjapplin.github.io)
 
 ## Bibliography
 
-[Applin, R. Jacob (2025). *Applied Essays in Industrial Organization: Pricing in Short-Term Rental Markets and Policy Implications in Tobacco Consumption* Theses and Dissertations--Economics. 71. https://uknowledge.uky.edu/economics_etds/71.](https://uknowledge.uky.edu/economics_etds/71).
+[Applin, R. Jacob (2025). *Applied Essays in Industrial Organization: Pricing in Short-Term Rental Markets and Policy Implications in Tobacco Consumption* Theses and Dissertations--Economics. 71. https://uknowledge.uky.edu/economics_etds/71.](https://uknowledge.uky.edu/economics_etds/71)
