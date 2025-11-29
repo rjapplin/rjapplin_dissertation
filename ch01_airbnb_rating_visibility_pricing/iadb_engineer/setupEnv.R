@@ -15,7 +15,7 @@ library(hunspell)
 
 
 #Source Functions---------------------------------------------------------------
-source("iadb_engineer/.functions.R")
+source("iadb_engineer/functions.R")
 
 #Connect to Database------------------------------------------------------------
 iadb <- dbConnect(SQLite(), dbname = "ia.db")
